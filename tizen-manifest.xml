@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="org.example.electricivpole" version="1.0.0">
+    <profile name="iot-headless"/>
+    <service-application appid="org.example.electricivpole" exec="electricivpole" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>electricivpole</label>
+        <icon>electricivpole.png</icon>
+    </service-application>
+    <privileges>
+    	<privilege>http://tizen.org/privilege/peripheralio</privilege>
+    </privileges>
+</manifest>

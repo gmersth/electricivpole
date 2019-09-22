@@ -1,0 +1,10 @@
+# ninja log v5
+8	459	0	src/electricivpole.o	7ed56575531eee25
+2	387	0	src/electricivpole.o	7ed56575531eee25
+3	186	0	src/resource/resource_motor_control.o	1e4c8b31346c9159
+186	1674	0	electricivpole	9c68ef834fe0d79
+2	141	0	src/resource/resource_motor_control.o	1e4c8b31346c9159
+8	292	0	src/electricivpole.o	7ed56575531eee25
+292	509	0	electricivpole	9c68ef834fe0d79
+2	135	0	src/resource/resource_motor_control.o	1e4c8b31346c9159
+135	363	0	electricivpole	9c68ef834fe0d79
